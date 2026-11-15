@@ -1,0 +1,6 @@
+{
+  "name": "PuntoGol — Fútbol Táctico 2D",
+  "description": "Simulador táctico de fútbol 2D estilo pizarra con dorsales, pases precisos, porteros reactivos y entrenador táctico IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
